@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d257cc8a-8492-4587-9393-1c2a051ba1eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GangesLSPStarter/GangesLSPStarter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GangesSRPStarter/GangesSRPStarter.iml" />
-    </list>
+    <list default="true" id="d257cc8a-8492-4587-9393-1c2a051ba1eb" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +48,44 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1510012511000" expanded="true" signature="31651:31666" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="35950:35965" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36000:38519" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36013:38504" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36067:36362" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36086:36347" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36149:36327" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36189:36293" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36210:36271" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36412:36739" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36431:36724" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36526:36704" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36566:36670" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36587:36648" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36790:37055" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36809:37040" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36842:37020" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36882:36986" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="36903:36964" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37098:37404" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37117:37389" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37191:37369" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37231:37335" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37252:37313" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37455:37832" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37474:37817" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37580:37797" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37620:37763" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37641:37741" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37867:38173" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37886:38158" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="37960:38138" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38000:38104" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38021:38082" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38225:38490" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38244:38475" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38277:38455" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38317:38421" ph="..." />
+                <marker date="1510012850000" expanded="true" signature="38338:38399" ph="..." />
               </folding>
             </state>
           </provider>
@@ -118,6 +151,13 @@
       <projects_view />
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1295" />
@@ -149,70 +189,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GangesSRPStarter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GangesSRPStarter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GangesLSPStarter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design-principles-practice-projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GangesLSPStarter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -532,7 +508,44 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1510012511000" expanded="true" signature="31651:31666" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="35950:35965" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36000:38519" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36013:38504" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36067:36362" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36086:36347" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36149:36327" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36189:36293" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36210:36271" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36412:36739" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36431:36724" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36526:36704" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36566:36670" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36587:36648" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36790:37055" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36809:37040" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36842:37020" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36882:36986" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="36903:36964" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37098:37404" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37117:37389" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37191:37369" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37231:37335" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37252:37313" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37455:37832" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37474:37817" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37580:37797" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37620:37763" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37641:37741" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37867:38173" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37886:38158" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="37960:38138" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38000:38104" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38021:38082" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38225:38490" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38244:38475" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38277:38455" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38317:38421" ph="..." />
+            <marker date="1510012850000" expanded="true" signature="38338:38399" ph="..." />
           </folding>
         </state>
       </provider>
